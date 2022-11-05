@@ -1,7 +1,9 @@
-## Netflix Dataset
+## Netflix data Analysis 
 ### Big-Data Analysis with Python
+
 ![plot](https://wallpapercave.com/wp/wp5063339.png)
-## General Data Analysis and Information
+### At every step question has been asked to data to extract meaningful insights.
+## First Step includes Understanding Data using basic syntax-
 * head() - It shows the first N rows in the data (by default, N=5).
 * tail () - It shows the last N rows in the data (by default, N=5).
 * shape - It shows the total no. of rows and no. of columns of the dataframe.
@@ -12,20 +14,23 @@
 * value_counts - In a column, it shows all the unique values with their count. It can be applied on a single column only.
 * unique() - It shows the all unique values of the series.
 * nunique() - It shows the total no. of unique values in the series.
+
+## Second Step Includes Data Cleaning. 
 * duplicated( ) - To check row wise and detect the Duplicate rows.
 * isnull( ) - To show where Null value is present.
 * dropna( ) - It drops the rows that contains all missing values.
 * isin( ) - To show all records including particular elements.
 * str.contains( ) - To get all records that contains a given string.
 * str.split( ) - It splits a column's string into different columns.
+
+## Third Step includes Analyzing data.
 * to_datetime( ) - Converts the data-type of Date-Time Column into datetime[ns] datatype.
 * dt.year.value_counts( ) - It counts the occurrence of all individual years in Time column.
 * groupby( ) - Groupby is used to split the data into groups based on some criteria.
 * sns.countplot(df['Col_name']) - To show the count of all unique values of any column in the form of bar graph.
 * max( ), min( ) - It shows the maximum/minimum value of the series.
 * mean( ) - It shows the mean value of the series.
-
-You will learn these things also:
+=
 Creating New Columns & Dataframe
 Filtering (Single Column & Multiple Columns)
 Filtering with And and OR
