@@ -233,9 +233,4 @@ data [ (data['Category']=='TV Show') & (data['Type']== "Kids' TV") ]
 # data [(data['Category']=='Movie') & (data['Type']=='Dramas') | (data['Category']=='TV Show') & (data['Type']=="Kids' TV")].head(1)
 
 data [ (data['Category']=='Movie') & (data['Type']=='Dramas') | (data['Category']=='TV Show') & (data['Type']== "Kids' TV") ]
-----
-----
-----
------ ***** -----
-By-
-Rohit Grewal (Data Analyst)
+
