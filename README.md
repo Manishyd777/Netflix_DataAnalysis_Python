@@ -2,7 +2,7 @@
 ### Big-Data Analysis with Python
 
 ![plot](https://wallpapercave.com/wp/wp5063339.png)
-### At every step question has been asked to data to extract meaningful insights.
+### At every step question has been asked from data to extract meaningful insights.
 ## First Step includes Understanding Data using basic syntax-
 * head() - It shows the first N rows in the data (by default, N=5).
 * tail () - It shows the last N rows in the data (by default, N=5).
@@ -30,8 +30,5 @@
 * sns.countplot(df['Col_name']) - To show the count of all unique values of any column in the form of bar graph.
 * max( ), min( ) - It shows the maximum/minimum value of the series.
 * mean( ) - It shows the mean value of the series.
-=
-Creating New Columns & Dataframe
-Filtering (Single Column & Multiple Columns)
-Filtering with And and OR
-Seaborn Library - Bar Graphs
+
+## This Project includes Creating New Columns & Dataframe, Filtering (Single Column & Multiple Columns), Filtering with And and OR Seaborn Library - Bar Graphs
