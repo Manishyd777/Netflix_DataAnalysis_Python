@@ -1,7 +1,7 @@
 ## Netflix Dataset
 ### Big-Data Analysis with Python
 ![plot](https://wallpapercave.com/wp/wp5063339.png)
-
+## General Data Analysis and Information
 * head() - It shows the first N rows in the data (by default, N=5).
 * tail () - It shows the last N rows in the data (by default, N=5).
 * shape - It shows the total no. of rows and no. of columns of the dataframe.
