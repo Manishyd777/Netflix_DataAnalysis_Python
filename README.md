@@ -4,6 +4,7 @@
 ![plot](https://wallpapercave.com/wp/wp5063339.png)
 ### At every step question has been asked from data to extract meaningful insights.
 ## First Step includes Understanding Data using basic syntax-
+### Basic functions used to explore data are-
 * head() - It shows the first N rows in the data (by default, N=5).
 * tail () - It shows the last N rows in the data (by default, N=5).
 * shape - It shows the total no. of rows and no. of columns of the dataframe.
