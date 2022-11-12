@@ -12,7 +12,6 @@
 ### -Filtering, sorting and getting meaningful insights from data.  
 
 
-### At every step question has been asked from data to extract meaningful insights.
 ## First Step includes Understanding Data using basic syntax-
 ### Basic functions used to explore data are-
 * head() - It shows the first N rows in the data (by default, N=5).
