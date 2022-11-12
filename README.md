@@ -2,6 +2,16 @@
 ### Big-Data Analysis with Python
 
 ![plot](https://wallpapercave.com/wp/wp5063339.png)
+
+###This is Exploratory Data analysis using python of “Netflix movies & tv shows” dataset. The purpose of this project is to find out The Major Key insights using project-  
+
+how dataset looks like, type of data, size and overview of dataset. 
+
+Cleaning dataset by various methods like removing nulls and duplicates. 
+
+Filtering, sorting and getting meaningful insights from data.  
+
+
 ### At every step question has been asked from data to extract meaningful insights.
 ## First Step includes Understanding Data using basic syntax-
 ### Basic functions used to explore data are-
